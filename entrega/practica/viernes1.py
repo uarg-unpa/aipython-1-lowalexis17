@@ -1,0 +1,7 @@
+print("Taller AIPython")
+print()
+print("Hola","soy","Alexis",sep='*',end='.')
+print()
+print("Taller de\"AIPython\"P1 E2")
+print('Taller de "AIPython" P1 E2')
+print(type(49))
